@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ArshockAbedan
-- 👀 I’m interested in Software development, Artificial intelligence, and Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Arshock Abedan
+- 👀 I’m interested in Software development, Artificial intelligence, Machine Learning, and Computer vision.
+- 🌱 I’m currently learning Django, Deep learning, SAP Fiori.
+- 💞️ I’m looking to collaborate on AI-based Web Development projects.
+- 📫 You can reach me at arefabedjooy@gmail.com
 
 <!---
 ArshockAbedan/ArshockAbedan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
