@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arshock Abedan
 - 👀 I’m interested in Software development, Artificial intelligence, Machine Learning, and Computer vision.
-- 🌱 I’m currently learning Django, Deep learning, and SAP Fiori.
+- 🌱 I’m currently Working on Machine Learning Engineering.
 - 💞️ I’m looking to collaborate on AI-based Web Development projects.
 - 📫 You can reach me at arefabedjooy@gmail.com
 
